@@ -13,4 +13,8 @@ Deve ser utilizado a estrutura de Deque; (http://www.inf.ufsc.br/~r.mello/ine538
 Deve possuir um CRUD utilizando a estrutura de Deque (Create - Read - Update - Delete)
 O usuário deve interagir com os métodos da aplicação como um todo;
 
+## Equipe:    
 
+Lucas Miralha - https://github.com/LucasMiralha
+Thiago França - https://github.com/Thiagottf
+Pedro Belchior - https://github.com/PedrinhoHP15
