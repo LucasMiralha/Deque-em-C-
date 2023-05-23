@@ -16,5 +16,7 @@ O usuário deve interagir com os métodos da aplicação como um todo;
 ## Equipe:    
 
 Lucas Miralha - https://github.com/LucasMiralha
+
 Thiago França - https://github.com/Thiagottf
+
 Pedro Belchior - https://github.com/PedrinhoHP15
