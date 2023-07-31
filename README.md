@@ -1,5 +1,5 @@
 # DEQUE
-Projeto da disciplina Estrutura de dados relativo a um CRUD feito encima de uma estrutura de deque. Contendo as seguintes instruções:
+Projeto da disciplina Estrutura de dados relativo a um CRUD feito a partir de uma estrutura de deque. Contendo as seguintes instruções:
 
 Atividade Projeto Prático: 3 pontos
 
